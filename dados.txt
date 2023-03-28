@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Pâmela
+-Profissão: Head of QA
+-Cidade: Curitiba
+-O que faz nas horas vaga: Nas minhas horas vagas gosto de estudar, ler ou passar tempo com minha familia e namorado.
+-Feedback sobre o curso Qualidade de Software: O curso tem sido bom; tenho reforçado conceitos e aprendido novos conteúdos. No entanto, poderia ter conteúdos mais aprofundados no que tange a automação com outras ferramentas por exemplo, itens mais avançados relacionados a automação, etc.
+-Feedback sobre a plataforma de estudo da EBAC: A plataforma é boa, de uso fácil.
+
+Obrigado!!!
+
+
